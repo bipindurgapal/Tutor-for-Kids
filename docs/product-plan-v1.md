@@ -1,7 +1,9 @@
 # AI Coach for Kids: Product Plan v1
 
 Status: approved by the product designer, except the open decisions at the bottom.
-Audience: students in grades 5-10, tier-1 Indian cities. Pilot of about 20-30 kids.
+Audience: students in grades 7-10, tier-1 Indian cities. Pilot of about 20-30 kids.
+Grades 5-6 are out of scope for v1: terms like "product" and "AI tool" don't land yet for that age,
+so we start where students already know the vocabulary. Revisit after the pilot.
 
 ## Purpose
 A friendly AI coach that helps each child understand and use generative AI wisely, for
@@ -54,7 +56,16 @@ rewards for learning and not time spent, gentle break suggestion after about 20 
 Mission shape: hook from their interest, then try it, then "what did you notice?", then one skill to take away.
 No failing, only "not yet". Finishing Level 1 earns a shareable certificate.
 
-Later (not built): Homework-Smart, Create with AI, Stay Safe Online, Talking to Teachers and Parents.
+### Product Lab (approved addition)
+A "make something with AI" moment at the end of Level 1 for every child, not only Builder style.
+The child's idea comes first and AI is the helper ("you are the director").
+- Grades 7-8: a comic, story, quiz, poster, simple game or one-page mini website.
+- Grades 9-10: the above, or a small tool or simple chatbot.
+Safety: creations stay inside the app and are shared only with the parent. No photos of real people,
+no personal details, no public posting in v1.
+
+Later (not built): Create with AI (a full level, first to build after Level 1), Homework-Smart,
+Stay Safe Online, Talking to Teachers and Parents.
 
 **Pilot success measures:** onboarding completion, Mission 1 completion, return within a week,
 thumbs up/down after each mission, which play styles get chosen, parent feedback.
@@ -138,9 +149,4 @@ we consider moving it to green, based on evidence from real conversations.
 1. Who receives urgent (red) alerts? Suggested: two named people.
 2. In a serious case, are parents told, and by whom? Suggested: a human on our side decides and reaches out.
 3. Do we allow broader general-knowledge chat after the pilot? (Not in v1.)
-4. PROPOSED, awaiting approval: add one small "make something with AI" moment to Level 1 for every child
-   (not only Builder style), and make "Create with AI" the first level built after Level 1.
-   Idea: grades 5-6 make a comic, story, poster or quiz; grades 7-8 add a simple game or mini website;
-   grades 9-10 try a small tool or chatbot. The child's idea comes first, AI is the helper ("you are the director").
-   Creations stay inside the app and are shared only with the parent. No photos of real people, no personal details,
-   no public posting in v1.
+4. Coach name and personality (placeholder for now: a friendly "older sibling" tone, not a teacher).
