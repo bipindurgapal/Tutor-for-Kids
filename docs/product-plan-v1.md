@@ -10,6 +10,15 @@ A friendly AI coach that helps each child understand and use generative AI wisel
 school and for non-school interests, even when teachers and parents give conflicting advice.
 It never takes sides for or against AI, and it never takes sides against a teacher, parent or school.
 
+Coach name: **Nova** (provisional; the final name will be decided later and is easy to change).
+Tone: a friendly "older sibling": encouraging, a little funny, never preachy, never like a teacher.
+
+## Stakeholders
+1. **The student** (grades 7-10), the daily user.
+2. **The parent**, who gives permission and stays informed about progress.
+Teachers are not users in v1. The child's "AI Compass" card is how a child can bring their learning to a teacher, if they choose.
+Internally we also need a safety reviewer (our team) who receives alerts. That is a support role, not a stakeholder.
+
 ## Scope of version 1
 - One journey ("Level 1") with 5 missions. Language adapts to the child's grade (no separate tracks yet).
 - 4 play styles. Same lessons, different wrapper.
@@ -145,8 +154,17 @@ we consider moving it to green, based on evidence from real conversations.
 - Have a lawyer check the parent-consent step (India's child data protection law applies).
 - Be clear with parents that this is not a 24x7 monitored service.
 
+## 5. Parent progress note: keeping parents informed, not reporting on the child
+A weekly note is essential, but it must never feel like Nova is "snitching".
+- It celebrates: skills learned, missions completed, strengths Nova noticed, things the child made (a count, not the content, unless the child chooses to share).
+- It includes a conversation starter parents can use at home ("Ask them what they caught the AI getting wrong this week").
+- It never includes the child's chats, flagged items, or anything the child said in confidence.
+- The child can see the note before or at the same time as the parent, and can add "what I'm proud of".
+- Safety is handled separately: a serious concern goes to a human on our team, not into a progress note.
+- The child is told honestly, in simple words, what stays private and the one exception: if they or someone else might be in danger.
+
 ## Open decisions
 1. Who receives urgent (red) alerts? Suggested: two named people.
 2. In a serious case, are parents told, and by whom? Suggested: a human on our side decides and reaches out.
 3. Do we allow broader general-knowledge chat after the pilot? (Not in v1.)
-4. Coach name and personality (placeholder for now: a friendly "older sibling" tone, not a teacher).
+4. Final coach name (provisional name is Nova).
